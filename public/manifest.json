@@ -1,0 +1,11 @@
+{
+  "mainfest_version":3,
+  "name":"Extension BE",
+  "author":"Harish Kumar",
+  "version":"11.1.0",
+  "description":"Extension that contains todo. You can add your daily task on it",
+  "chrome_url_overrides":{
+    "newtabe":"index.html"
+  }
+
+}
